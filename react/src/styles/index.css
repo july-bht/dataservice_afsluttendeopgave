@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hr {
+    @apply border-2 w-12 mx-auto my-5
+}
